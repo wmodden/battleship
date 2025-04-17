@@ -8,6 +8,8 @@
 - React Hooks
 - clsx
 
+(these where the chosen technologies as I wanted to develop this game with few dependencies)
+
 ## Setup
 
 1. install dependencies `npm install` or use your package manager
