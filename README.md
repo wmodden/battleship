@@ -6,7 +6,7 @@
 - Vite
 - TailwindCSS
 - React Hooks
-- clsx for concatenating strings
+- clsx
 
 ## Setup
 
